@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nimrac296
-- 👀 I’m interested in all things tech, finance & business
+- 👀 I’m interested in all things tech, finance, & business
 - 🌱 I’m currently learning OOP & Finance
 - 💞️ I’m looking to collaborate on any projects in the AI space
 - 📫 How to reach me chau1714@mylaurier.ca
